@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Pharmacist graduated from UFSC<br>📚 I am interested in dialogues between science, technology and art <br>📫 E-mail: thaianee_02@hotmail.com<br>📕 My notion: <a href="https://painted-mitten-bfb.notion.site/Thatiana-1c93238e42eb8025ad32d168be27fdb5" target="_blank">Notes</a> </p>
+<p align="left">🎓 Pharmacist graduated from UFSC<br>📚 I am interested in dialogues between science, technology and art <br>📫 E-mail: thaianee_02@hotmail.com<br>📕 My notion: <a href="https://thatiana.notion.site/Thatiana-1c93238e42eb8025ad32d168be27fdb5" target="_blank">Notes</a> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Thaianee01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
